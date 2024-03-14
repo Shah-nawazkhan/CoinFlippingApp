@@ -1,4 +1,3 @@
-// App.js 
 import React, { useState, useRef } from "react"; 
 import {View,Text,Image,Button,StyleSheet,TouchableOpacity,Animated,Easing, 
 } from "react-native"; 
